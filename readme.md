@@ -22,16 +22,3 @@
 
 **TS – o código escrito em TypeScript é compilado para JavaScript Orientada a Objetos & Tipagem Forte.**
 
-**Superset do JavaScript**
-
-<img src="C:\$Recycle.Bin\S-1-5-21-1482476501-2139871995-682003330-609287\$RABBASG.PNG" alt="$RABBASG" style="zoom:50%;" />
-
-**Conceitos Essenciais**
-
-<img src="C:\$Recycle.Bin\S-1-5-21-1482476501-2139871995-682003330-609287\$R3YH66V.PNG" alt="$R3YH66V" style="zoom:50%;" />
-
-**O que é um Componente ?**
-
-**Componente Visual da sua tela**
-
-<img src="C:\$Recycle.Bin\S-1-5-21-1482476501-2139871995-682003330-609287\$RAJJ9TI.PNG" style="zoom:50%;" />
