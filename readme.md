@@ -8,7 +8,7 @@
 
 **Versão 1 – Angular Js**
 
-**Novo Angular (Comp;)- 2.4 .....9 (2 versões por ano)** 
+**Novo Angular (Comp;)- 2.4 .....9 (2 versões por ano)**
 
 **Comando Line Interface**
 
@@ -18,23 +18,20 @@
 
 **Ng new minha-app**
 
-**TypeScript –** **Linguagem criada pela Microsoft** 
+**TypeScript –** **Linguagem criada pela Microsoft**
 
 **TS – o código escrito em TypeScript é compilado para JavaScript Orientada a Objetos & Tipagem Forte.**
 
-**Superset do JavaScript** 
+**Superset do JavaScript**
 
-![image-20210507192558334](C:\Users\c.souza.dos.reis\AppData\Roaming\Typora\typora-user-images\image-20210507192558334.png)
+<img src="C:\$Recycle.Bin\S-1-5-21-1482476501-2139871995-682003330-609287\$RABBASG.PNG" alt="$RABBASG" style="zoom:50%;" />
 
 **Conceitos Essenciais**
 
-![image-20210507192616339](C:\Users\c.souza.dos.reis\AppData\Roaming\Typora\typora-user-images\image-20210507192616339.png)
+<img src="C:\$Recycle.Bin\S-1-5-21-1482476501-2139871995-682003330-609287\$R3YH66V.PNG" alt="$R3YH66V" style="zoom:50%;" />
 
 **O que é um Componente ?**
 
 **Componente Visual da sua tela**
 
-![Capturar](C:\Users\c.souza.dos.reis\Desktop\Capturar.PNG)
-
-
-
+<img src="C:\$Recycle.Bin\S-1-5-21-1482476501-2139871995-682003330-609287\$RAJJ9TI.PNG" style="zoom:50%;" />
